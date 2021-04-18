@@ -1,8 +1,20 @@
 # notebooks
 
+---
+
 软件学子的一些笔记
 
-包括但不限于：
+目录（:white_check_mark:写完了​ :negative_squared_cross_mark:还没写 :swimmer:正在写）：
 
-计算机网络
+:swimmer:计算机网络
+
+:negative_squared_cross_mark:STL
+
+:negative_squared_cross_mark:数据结构
+
+:negative_squared_cross_mark:算法
+
+:negative_squared_cross_mark:数据库
+
+:negative_squared_cross_mark:Go
 
